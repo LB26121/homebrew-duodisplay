@@ -1,6 +1,6 @@
 cask "duodisplay" do
   version "1.0"
-  sha256 "95734753055ad02464d0422612cfce73d71881399ce2eb4f7a266c024e4e2f5c"
+  sha256 "75528b7c8da206f93e51607bcab1b312ac67a048d349ad9efe2f5ead6b1f2c5f"
 
   url "https://github.com/LB26121/DuoDisplay/releases/download/v#{version}/DuoDisplay-#{version}.zip"
   name "DuoDisplay"
